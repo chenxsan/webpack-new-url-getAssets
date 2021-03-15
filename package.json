@@ -1,0 +1,10 @@
+{
+  "name": "webpack-new-url-getAssets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chenxsan",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.25.1"
+  }
+}
